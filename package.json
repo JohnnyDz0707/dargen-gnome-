@@ -1,0 +1,17 @@
+{
+    "name": "dargening-gnome",
+    "private": true,
+    "version": "0.1.0",
+    "author": "Pepper",
+    "license": "MIT",
+    "description": "it gnomes your dargens so much that it dargen gnomes all over the gahg j srmklpj,a,l å",
+    "type": "module",
+    "scripts": {
+        "fix": "yarn prettier -w *.json *.js"
+    },
+    "dependencies": {
+        "husky": "^8.0.3",
+        "prettier": "^3.2.4"
+    },
+    "packageManager": "yarn@4.0.2"
+}
