@@ -10,7 +10,10 @@
         "fix": "yarn prettier -w *.json *.js"
     },
     "dependencies": {
+        "discord.js": "^14.14.1",
+        "googleapis": "^131.0.0",
         "husky": "^8.0.3",
+        "luxon": "^3.4.4",
         "prettier": "^3.2.4"
     },
     "packageManager": "yarn@4.0.2"
